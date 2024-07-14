@@ -100,7 +100,8 @@ We used the Flask micro-framework, Python Imaging Library (PIL), and rembg to pr
 
 
 THE BELOW IMAGE IS THE SCREENSHOT OF MY PROJECT.
-![background remover](https://github.com/user-attachments/assets/f4583c7b-e7ce-4515-bcb5-90049fc82869)
+![Background remover](https://github.com/user-attachments/assets/d5155ee1-6bbd-4fda-9df7-de2ef7ea2fa4)
+
 
 
 
