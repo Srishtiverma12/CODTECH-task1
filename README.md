@@ -99,7 +99,7 @@ We used the Flask micro-framework, Python Imaging Library (PIL), and rembg to pr
 
 
 
-
+THE BELOW IMAGE IS THE SCREENSHOT OF MY PROJECT.
 ![background remover](https://github.com/user-attachments/assets/f4583c7b-e7ce-4515-bcb5-90049fc82869)
 
 
