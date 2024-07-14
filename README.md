@@ -60,7 +60,9 @@ Data Privacy: Ensure that data collection and usage comply with privacy laws and
 
 Bias and Fairness: Assess and mitigate any biases in the data and model to ensure fairness.
 
+
 KEY INSIGHTS OF THE PROJECT (BACKGROUND REMOVER FLASK APP USING PYTHON)
+
 
 1.Setting Up the Environment
 pip install Flask opencv-python pillow numpy
@@ -79,7 +81,9 @@ Design HTML Template: Create a simple frontend to upload images.
 6.Testing and Debugging
 Run the App: Start the Flask server and test the application.
 
+
 TECHNOLOGIES USED:
+
 
 PYTHON
 
